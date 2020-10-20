@@ -18,3 +18,5 @@ This project was developed with the following technologies:
 
 - ✔️ Html
 - ✔️ Css
+- ✔️ FlexBox
+- ✔️ Grid
