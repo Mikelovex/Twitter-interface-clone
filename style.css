@@ -45,7 +45,8 @@
 .l:hover {
     color: rgb(26, 130, 228);
     background: rgb(197, 227, 255);
-    border-radius: 15px;
+    padding: 0 10px;
+    border-radius: 10px;
 }
 
 button {
